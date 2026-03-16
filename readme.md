@@ -168,8 +168,10 @@ Source:
 
 Example:
 
-assets/screenshots/movei-rec.png
-assets/screenshots/movie-rec2.png
+<img width="959" height="539" alt="movei-rec" src="https://github.com/user-attachments/assets/cf564676-0cb1-4c6d-bb52-20dab2b30559" />
+
+<img width="959" height="539" alt="movie-rec2" src="https://github.com/user-attachments/assets/ddda3e9a-05b7-4a32-b285-342238672551" />
+
 
 ---
 
