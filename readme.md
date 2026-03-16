@@ -166,14 +166,10 @@ Source:
 
 # 📸 Application Preview
 
-*(Add screenshots here)*
-
 Example:
 
-```
 assets/screenshots/movei-rec.png
 assets/screenshots/movie-rec2.png
-```
 
 ---
 
