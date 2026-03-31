@@ -4,8 +4,6 @@ An intelligent **content-based movie recommendation system** built using **Machi
 
 The system analyzes movie **genres, cast, keywords, director, and overview** to compute similarity between movies and recommend the most relevant ones.
 
-🚀 **Live App:** *Add your Streamlit deployment link here*
-
 ---
 
 # 📌 Project Overview
