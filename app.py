@@ -4,8 +4,10 @@ import pandas as pd
 import requests
 from config import config
 
-API_KEY = config['api_key']
-NUM_RECOMMENDATIONS = config['num_recommendations']
+# API_KEY = config['api_key']
+# NUM_RECOMMENDATIONS = config['num_recommendations']
+API_KEY = st.secrets["api"]["key"]
+NUM_RECOMMENDATIONS = 5
 
 st.set_page_config(
     page_title="AI Movie Recommender",
