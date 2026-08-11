@@ -2,7 +2,6 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
-from config import config
 
 # API_KEY = config['api_key']
 # NUM_RECOMMENDATIONS = config['num_recommendations']
